@@ -1,6 +1,6 @@
 # Excluded folders
-/DATA/
-/.ipynb_checkpoints
+DATA/
+.ipynb_checkpoints
 
 # Excluded files
 /TOKENS.txt
