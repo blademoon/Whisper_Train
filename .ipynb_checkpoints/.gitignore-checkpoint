@@ -1,2 +1,7 @@
-./DATA/
-TOKENS.txt
+# Исключаемые папки
+/DATA/
+/.ipynb_checkpoints
+
+# Исключаемые файлы
+/TOKENS.txt
+
