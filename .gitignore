@@ -1,7 +1,19 @@
 # Excluded folders
 DATA/
+checkpoint-*/
+runs/
 .ipynb_checkpoints
 
 # Excluded files
 /TOKENS.txt
+/added_tokens.json
+/config.json
+/merges.txt
+/normalizer.json
+/preprocessor_config.json
+/pytorch_model.bin
+/special_tokens_map.json
+/tokenizer_config.json
+/training_args.bin
+/vocab.json
 
