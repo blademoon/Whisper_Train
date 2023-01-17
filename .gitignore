@@ -2,6 +2,7 @@
 DATA/
 checkpoint-*/
 runs/
+whisper-base-fine_tuned-ru/
 .ipynb_checkpoints
 
 # Excluded files
@@ -16,4 +17,7 @@ runs/
 /tokenizer_config.json
 /training_args.bin
 /vocab.json
+
+**/*.json
+**/*.arrow
 
